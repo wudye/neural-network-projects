@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# Local datasets and model weights
+/dataset/
+/1unet/data/mnist/
+*.npy
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+/1unet/original_image.png
+
