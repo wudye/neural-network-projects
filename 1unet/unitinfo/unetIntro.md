@@ -33,7 +33,7 @@
    (normal) output(1 * 1) = [a * w1 + b * w2 + c * w3 + d * w4] a value
 
 
-# interpolate  same as Upsample
+# interpolate 
     input 2* 2 = [[ A, B ], 
                 [ C, D ]]
      -> output(4 * 4)= [[ A, A, B, B ],
